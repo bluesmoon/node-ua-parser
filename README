@@ -1,0 +1,6 @@
+UserAgent Parser for Node.
+
+This is a JavaScript implementation of BrowserScope's UA Parser available here:
+http://code.google.com/p/ua-parser/
+
+It uses the same regex file.
